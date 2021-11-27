@@ -1,0 +1,16 @@
+.error img{
+    height: 80vh;
+  
+}
+.not-btn{
+    padding: 7px 30px;
+    border-radius: 5px;
+    background-color: #C3272E;
+    border: none;
+    display: inline-block;
+    margin-bottom: 50px;
+    color: #fff;
+}
+button{
+    text-align: center;
+}

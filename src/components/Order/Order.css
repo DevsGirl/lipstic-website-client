@@ -1,0 +1,20 @@
+
+.event-area{
+    margin: 40px 0;
+}.add-event form{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.add-event form  input, textarea{
+ width: 40%;
+ margin-bottom: 10px;
+
+}
+.error{
+    color: red;
+}
+.shop-btn:hover{
+     border: 2px solid #AC192C;
+}

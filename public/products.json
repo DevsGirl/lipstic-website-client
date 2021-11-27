@@ -1,0 +1,131 @@
+[
+    {
+      "product_name": "Fenty Beauty",
+      "brand": "Lakme",
+      "price": "500.00",
+      "description": "Lipstick is a cosmetic that applies color, texture, and protection to the lips.",
+      "img": "https://i.ibb.co/wNCmdd6/1.jpg"
+    },
+    {
+      "product_name": "Mac Lipstic",
+      "brand": "Eli",
+      "price": "350.00",
+      "description": "Lipstick defines your lips and brightens your smile, provided you choose the right shade. ",
+      "img": "https://i.ibb.co/Phs2SQp/2.jpg"
+    },
+    {
+      "product_name": "Urban Decay",
+      "brand": "Lipstick Zen",
+      "price": "499.00",
+      "description": "Many colors and types of lipstick exist. Some lipsticks are also lip balms, to add both color and hydration.",
+      "img": "https://i.ibb.co/Dfp9ykw/3.jpg"
+    },
+    {
+      "product_name": "Flamingo",
+      "brand": "Fantasie",
+      "price": "300.00",
+      "description": "Lipstick is a cosmetic that applies color, texture, and protection to the lips.",
+      "img": "https://i.ibb.co/k1bhTCH/4.jpg"
+    },
+    {
+      "product_name": "Burnout",
+      "brand": "Mac",
+      "price": "450.00",
+      "description": "Sheer Lipstick. A sheer lipstick is a good choice if your lips are dry for some reason",
+      "img": "https://i.ibb.co/jDVxxxb/5.jpg"
+    },
+    {
+      "product_name": "Crushed Coral",
+      "brand": "Mettel",
+      "price": "400.00",
+      "description": "Reapplying lipstick several times means you are ingesting more chemicals and causing more damage.",
+      "img": "https://i.ibb.co/RHB0qFP/17.jpg"
+      
+    },
+    {
+      "product_name": "Vivianna",
+      "brand": "Lippy Land",
+      "price": "280.00",
+      "description": "Lip gloss is a cosmetic used primarily to give lips a glossy lustre, and sometimes to add a subtle color.",
+      "img": "https://i.ibb.co/8xyH6HS/7.jpg"
+    },
+    {
+      "product_name": "Flamingo",
+      "brand": "Mettel",
+      "price": "450.00",
+      "description": "Sheer Lipstick. A sheer lipstick is a good choice if your lips are dry for some reason",
+      "img": "https://i.ibb.co/bRXjcNp/8.jpg"
+    },
+    {
+      "product_name": "Crushed Coral",
+      "brand": "Plum Petals",
+      "price": "399.00",
+      "description": "Lip gloss is a cosmetic used primarily to give lips a glossy lustre, and sometimes to add a subtle color.",
+      "img": "https://i.ibb.co/PmvN2QN/9.jpg"
+    },
+    {
+      "product_name": "Burnout",
+      "brand": "Lipcious",
+      "price": "220.00",
+      "description": "It should possess good thixotropic property so as to deposit the colour with minimum pressure.",
+      "img": "https://i.ibb.co/dGJPpX7/10.jpg"
+    },
+    {
+      "product_name": "Crushed Coral",
+      "brand": "EAngel Pinki",
+      "price": "180.00",
+      "description": "Lip gloss is a cosmetic used primarily to give lips a glossy lustre, and sometimes to add a subtle color.",
+      "img": "https://i.ibb.co/pPMt7J3/18.png"
+    },
+    {
+      "product_name": "Flamingo",
+      "brand": "Eli",
+      "price": "380.00",
+      "description": "The product is available in ranges of opacity from translucent to solid, and can have various frosted, glittery, glossy.",
+      "img": "https://i.ibb.co/6BN6Q3D/12.jpg"
+    },
+    {
+      "product_name": "Vivianna",
+      "brand": "Lakme",
+      "price": "500.00",
+      "description": "Matte lipsticks are the eternal favourite of many girls and women.",
+      "img": "https://i.ibb.co/PFg8S5P/13.jpg"
+    },
+    {
+      "product_name": "Mac Lipstic",
+      "brand": "Mettel",
+      "price": "400.00",
+      "description": "Matte lipsticks are the eternal favourite of many girls and women.",
+      "img": "https://i.ibb.co/BBj0YPM/14.jpg"
+    },
+    {
+      "product_name": "Lakme",
+      "brand": "Pink Passion",
+      "price": "290.00",
+      "description": "These lipsticks are made from healthy ingredients and aren't contaminated with heavy metals like lead.",
+      "img": "https://i.ibb.co/WDss1YL/15.jpg"
+    },
+    {
+      "product_name": "Fenty Beauty",
+      "brand": "Eli",
+      "price": "250.00",
+      "description": "Lipstick is a cosmetic that applies color, texture, and protection to the lips.",
+      "img": "https://i.ibb.co/WPNVhyq/16.jpg"
+    },
+    {
+      "product_name": "Mac Lipstic",
+      "brand": "Lipstick Zen",
+      "price": "300.00",
+      "description": "It should possess good thixotropic property so as to deposit the colour with minimum pressure.",
+      "img": "https://i.ibb.co/mJGv0GF/6.jpg"
+    },
+    {
+      "product_name": "Fenty Beauty",
+      "brand": "Eli",
+      "price": "200.00",
+      "description": "It should possess good thixotropic property so as to deposit the colour with minimum pressure.",
+      "img": "https://i.ibb.co/7rHmMXS/11.jpg"
+    }
+   
+   
+  ]

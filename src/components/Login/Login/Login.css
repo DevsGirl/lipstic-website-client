@@ -1,0 +1,22 @@
+.login-form{
+    padding:0 30%;
+    
+    }
+    .bg-google{
+        background-color: #C3272E;
+        border: none;
+        border-radius: 6px;
+        color: #fff;
+        padding: 0 20px;
+    }
+    .logout-btn{
+        padding: 0;
+        margin: 0;
+    }
+    .reg-btn{
+        background-color: #C3272E;
+        border: none;
+        border-radius: 6px;
+        color: #fff;
+        padding: 7px 15px;  
+    }

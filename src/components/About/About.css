@@ -1,0 +1,51 @@
+
+ 
+.about-area{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+    padding-top: 50px;
+}
+
+.about-text{
+    text-align: left;
+    padding: 50px ;
+ 
+}
+.image{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.area{
+text-align: justify;
+}
+/* Make it responsive */
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .about-area{
+        grid-template-columns: repeat(1, 1fr); 
+      } 
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .about-area{
+        grid-template-columns: repeat(1, 1fr); 
+      } 
+ 
+}
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .about-area{
+        grid-template-columns: repeat(1, 1fr); 
+      } 
+      .about-img{
+          width: 100%;
+      }
+      .about-text{
+        text-align: left;
+        padding: 0 ;
+     
+    }
+}

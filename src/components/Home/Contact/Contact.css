@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Zen+Antique&display=swap');
+.contact-bg:before{
+    position:relative;
+    top: 0;
+    left: 0;
+    content: "";
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.6;
+}
+.title{
+    color: #C3272E;
+}
+.planners{
+    text-align: justify;
+}
+.contact-text{
+    color: #fff;
+    font-family: 'Zen Antique', serif;
+}
+/* Make it responsive */
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+   
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+     
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+     
+}
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+ 
+
+}

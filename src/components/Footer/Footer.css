@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Zen+Antique&display=swap');
+.red-border-top {
+    border-top: 3px solid rgba(220, 53, 69, 0.4);;
+}
+.text-bg{
+    color: #C3272E;
+}
+.bg-footer{
+    background-color: #F7F7F7;
+}
+.footer-title{
+    color: #AC192C;
+    font-family: 'Zen Antique', serif;
+}
+.footer-title{
+    color: #AC192C;
+    font-family: 'Zen Antique', serif;
+}
+.copy-title{
+    font-family: 'Zen Antique', serif;
+}
+.name-hover:hover{
+    color: #fff;
+    font-family: 'Zen Antique', serif;
+}

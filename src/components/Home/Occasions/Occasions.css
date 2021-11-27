@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Zen+Antique&display=swap');
+.occasion-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);;
+    grid-gap: 10px;
+}
+.short-title{
+    /* font-family: 'Zen Antique', serif; */
+    font-family: 'Courgette', cursive;
+    color: #C3272E;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.mt-50{
+    margin-top:50px
+}
+/* Make it responsive */
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .occasion-container{ 
+        grid-template-columns: repeat(1, 1fr); 
+    }
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .occasion-container{ 
+        grid-template-columns: repeat(1, 1fr); 
+    }
+ 
+}
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .occasion-container{ 
+        grid-template-columns: repeat(1, 1fr); 
+    }  
+
+}
+
+

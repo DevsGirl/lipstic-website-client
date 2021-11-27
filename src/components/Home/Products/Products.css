@@ -1,0 +1,15 @@
+.free{
+    padding: 0 10%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding-top: 100px;
+}
+.free-bg{
+    background-color: #EFF6F6;
+    height: 300px;
+    margin: 50px 0;
+ 
+
+}

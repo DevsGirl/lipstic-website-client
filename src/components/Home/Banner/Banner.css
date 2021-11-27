@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+.slider{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ .banner-img{
+     height: 100vh;
+     width: 100%;
+ }
+.left-text{
+    display: flex;
+    justify-content: flex-end;
+}
+.right-text{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon  {
+    display: none;
+}
+.banner-title{
+    font-weight: 600;
+    color: #AC192C;
+    font-family: 'Zen Antique', serif;
+}
+
+/* Make it responsive */
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner-img{
+        height: 50vh; 
+    }
+    .left-text{
+        padding-bottom: 40.00rem;
+    }
+    .right-text{ 
+        padding-bottom: 40.00rem;
+    }
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .banner-img{
+        height: 50vh; 
+    }
+    .left-text{
+        padding-bottom: 40.00rem;
+    }
+    .right-text{ 
+        padding-bottom: 40.00rem;
+    }
+}
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .banner-img{
+        height: 50vh; 
+    } 
+}
